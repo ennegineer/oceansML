@@ -11,6 +11,20 @@ html, body
   /* color:rgb(71, 71, 71); */
 }
 
+.panel-body {
+  padding: 0.9rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.panel .panel-primary {
+  border-color: rgb(97, 209, 253);
+}
+
+.panel-primary .panel-heading {
+  background-color: rgb(97, 209, 253);
+}
+
 #map-holder{
     height: 80%;
     /* margin-left: auto; */

@@ -72,11 +72,10 @@ def predict():
     print("Loading Predictions...")
     return render_template('predict.html')
 
-# 'data' route
-@app.route("/data")
-def data():
-    print("Loading Data...")
-    return render_template('data.html')
+# 'vessel' route
+@app.route("/vessel")
+def vessel():
+    return render_template('vessel.html')
 
 # 'process' route
 @app.route("/process")
