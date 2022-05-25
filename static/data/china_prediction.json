@@ -1,0 +1,1638 @@
+{
+    "years":["2020", "2030", "2040", "2050"],
+    "areas":["Atlantic Antarctic", "East Atlantic", "Northeast Atlantic", "Southeast Atlantic", "Southwest Atlantic", "West Atlantic", "Eastern Indian", "Western Indian", "Mediterranean and Black", "East Pacific", "Northwest Pacific", "Southeast Pacific", "Southwest Pacific", "West Pacific"],
+    "metadata":[{"year": 2020,
+        "Cods": {
+            "Atlantic Antarctic": [
+                0.03
+            ],
+            "East Atlantic": [
+                224.365
+            ],
+            "Northeast Atlantic": [
+                17.227666666666668
+            ],
+            "Southeast Atlantic": [
+                32.46761904761905
+            ],
+            "Southwest Atlantic": [
+                20.449272727272728
+            ],
+            "West Atlantic": [
+                120.31392857142856
+            ],
+            "Eastern Indian": [
+                11.106666666666667
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                16.69409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                18364.87
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                150.72803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [20963.381028138527]
+        },
+        "Flounders": {
+            "Atlantic Antarctic": [
+                1.6
+            ],
+            "East Atlantic": [
+                436.43
+            ],
+            "Northeast Atlantic": [
+                18.797666666666668
+            ],
+            "Southeast Atlantic": [
+                34.03761904761905
+            ],
+            "Southwest Atlantic": [
+                22.019272727272728
+            ],
+            "West Atlantic": [
+                121.88392857142857
+            ],
+            "Eastern Indian": [
+                12.676666666666668
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                18.26409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                3017742.19
+            ],
+            "Southeast Pacific": [
+                208.81935387488326
+            ],
+            "Southwest Pacific": [
+                151.36803571428572
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [3025291.861028138]
+        },
+        "Herrings": {
+            "Atlantic Antarctic": [
+                168.64166666666668
+            ],
+            "East Atlantic": [
+                411.15416666666664
+            ],
+            "Northeast Atlantic": [
+                177.396
+            ],
+            "Southeast Atlantic": [
+                188.79928571428573
+            ],
+            "Southwest Atlantic": [
+                178.97366666666667
+            ],
+            "West Atlantic": [
+                187.27083333333337
+            ],
+            "Eastern Indian": [
+                173.69333333333336
+            ],
+            "Western Indian": [
+                321.50166666666667
+            ],
+            "Mediterranean and Black": [
+                176.76666666666668
+            ],
+            "East Pacific": [
+                820.0886428571429
+            ],
+            "Northwest Pacific": [
+                237743.16804761905
+            ],
+            "Southeast Pacific": [
+                285.24979831932774
+            ],
+            "Southwest Pacific": [
+                231.87595238095236
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [240869.56421428567]
+        },
+        "Coastal fishes": {
+            "Atlantic Antarctic": [
+                0
+            ],
+            "East Atlantic": [
+                860.8293517593519
+            ],
+            "Northeast Atlantic": [
+                17.817666666666668
+            ],
+            "Southeast Atlantic": [
+                33.72761904761905
+            ],
+            "Southwest Atlantic": [
+                20.969272727272728
+            ],
+            "West Atlantic": [
+                120.90392857142857
+            ],
+            "Eastern Indian": [
+                11.686666666666667
+            ],
+            "Western Indian": [
+                1264.22
+            ],
+            "Mediterranean and Black": [
+                17.28409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                146568.77709625303
+            ],
+            "Southeast Pacific": [
+                206.32935387488328
+            ],
+            "Southwest Pacific": [
+                149.44803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [148993.72967723748]
+        },
+        "Demersal fishes": {
+            "Atlantic Antarctic": [
+                0.005
+            ],
+            "East Atlantic": [
+                223.525
+            ],
+            "Northeast Atlantic": [
+                17.197666666666667
+            ],
+            "Southeast Atlantic": [
+                32.43761904761905
+            ],
+            "Southwest Atlantic": [
+                20.419272727272727
+            ],
+            "West Atlantic": [
+                120.28392857142858
+            ],
+            "Eastern Indian": [
+                11.076666666666668
+            ],
+            "Western Indian": [
+                272.06666666666666
+            ],
+            "Mediterranean and Black": [
+                16.66409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                407042.93275000004
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                190.22803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [433722.13110750355]
+        },
+        "Pelagic fishes": {
+            "Atlantic Antarctic": [
+                10712.729666666663
+            ],
+            "East Atlantic": [
+                801.0173333333337
+            ],
+            "Northeast Atlantic": [
+                10712.729666666663
+            ],
+            "Southeast Atlantic": [
+                10712.729666666663
+            ],
+            "Southwest Atlantic": [
+                10712.729666666663
+            ],
+            "West Atlantic": [
+                10712.729666666663
+            ],
+            "Eastern Indian": [
+                10712.729666666663
+            ],
+            "Western Indian": [
+                10712.729666666663
+            ],
+            "Mediterranean and Black": [
+                10712.729666666663
+            ],
+            "East Pacific": [
+                10712.729666666663
+            ],
+            "Northwest Pacific": [
+                260243.50659126986
+            ],
+            "Southeast Pacific": [
+                22421.24
+            ],
+            "Southwest Pacific": [
+                10712.729666666663
+            ],
+            "West Pacific": [
+                10712.729666666663
+            ],
+            "sum": [363390.0947539683]
+        },
+        "Shads": {
+            "Atlantic Antarctic": [
+                0.03
+            ],
+            "East Atlantic": [
+                413.565
+            ],
+            "Northeast Atlantic": [
+                17.227666666666668
+            ],
+            "Southeast Atlantic": [
+                32.46761904761905
+            ],
+            "Southwest Atlantic": [
+                20.449272727272728
+            ],
+            "West Atlantic": [
+                120.31392857142856
+            ],
+            "Eastern Indian": [
+                11.106666666666667
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                16.69409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                69271.65
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                150.72803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [71310.12102813853]
+        },
+        "Cartilaginous": {
+            "Atlantic Antarctic": [
+                3.1607142857142856
+            ],
+            "East Atlantic": [
+                104.5
+            ],
+            "Northeast Atlantic": [
+                12.296714285714286
+            ],
+            "Southeast Atlantic": [
+                31.182619047619045
+            ],
+            "Southwest Atlantic": [
+                13.017000000000001
+            ],
+            "West Atlantic": [
+                71.20666666666666
+            ],
+            "Eastern Indian": [
+                2.8426190476190474
+            ],
+            "Western Indian": [
+                70.01275000000001
+            ],
+            "Mediterranean and Black": [
+                11.51404761904762
+            ],
+            "East Pacific": [
+                1032.383845238095
+            ],
+            "Northwest Pacific": [
+                1.5375
+            ],
+            "Southeast Pacific": [
+                201.2372380952381
+            ],
+            "Southwest Pacific": [
+                34.48611904761905
+            ],
+            "West Pacific": [
+                83.06453174603173
+            ],
+            "sum": [1543.5640833333332]
+        },
+        "Tunas": {
+            "Atlantic Antarctic": [
+                39.07532395382395
+            ],
+            "East Atlantic": [
+                549.7416230158728
+            ],
+            "Northeast Atlantic": [
+                45.12486507936508
+            ],
+            "Southeast Atlantic": [
+                34.11076298701299
+            ],
+            "Southwest Atlantic": [
+                43.583807109557114
+            ],
+            "West Atlantic": [
+                1029.1087391774888
+            ],
+            "Eastern Indian": [
+                10.590743506493506
+            ],
+            "Western Indian": [
+                1111.2406582649376
+            ],
+            "Mediterranean and Black": [
+                39.75441486291486
+            ],
+            "East Pacific": [
+                5044.864527474159
+            ],
+            "Northwest Pacific": [
+                35034.25634446108
+            ],
+            "Southeast Pacific": [
+                1392.156024065803
+            ],
+            "Southwest Pacific": [
+                925.5280714285716
+            ],
+            "West Pacific": [
+                3640.563169247419
+            ],
+            "sum": [57158.21225213675]
+        },
+        "Sum": 4363242.66
+    },
+    {"year": 2030,
+        "Cods": {
+            "Atlantic Antarctic": [
+                0.03
+            ],
+            "East Atlantic": [
+                224.365
+            ],
+            "Northeast Atlantic": [
+                17.227666666666668
+            ],
+            "Southeast Atlantic": [
+                32.46761904761905
+            ],
+            "Southwest Atlantic": [
+                20.449272727272728
+            ],
+            "West Atlantic": [
+                120.31392857142856
+            ],
+            "Eastern Indian": [
+                11.106666666666667
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                16.69409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                18364.87
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                150.72803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [20963.381028138527]
+        },
+        "Flounders": {
+            "Atlantic Antarctic": [
+                1.6
+            ],
+            "East Atlantic": [
+                436.43
+            ],
+            "Northeast Atlantic": [
+                18.797666666666668
+            ],
+            "Southeast Atlantic": [
+                34.03761904761905
+            ],
+            "Southwest Atlantic": [
+                22.019272727272728
+            ],
+            "West Atlantic": [
+                121.88392857142857
+            ],
+            "Eastern Indian": [
+                12.676666666666668
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                18.26409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                3017742.19
+            ],
+            "Southeast Pacific": [
+                208.81935387488326
+            ],
+            "Southwest Pacific": [
+                151.36803571428572
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [3025291.861028138]
+        },
+        "Herrings": {
+            "Atlantic Antarctic": [
+                168.64166666666668
+            ],
+            "East Atlantic": [
+                411.15416666666664
+            ],
+            "Northeast Atlantic": [
+                177.396
+            ],
+            "Southeast Atlantic": [
+                188.79928571428573
+            ],
+            "Southwest Atlantic": [
+                178.97366666666667
+            ],
+            "West Atlantic": [
+                187.27083333333337
+            ],
+            "Eastern Indian": [
+                173.69333333333336
+            ],
+            "Western Indian": [
+                321.50166666666667
+            ],
+            "Mediterranean and Black": [
+                176.76666666666668
+            ],
+            "East Pacific": [
+                820.0886428571429
+            ],
+            "Northwest Pacific": [
+                237743.16804761905
+            ],
+            "Southeast Pacific": [
+                285.24979831932774
+            ],
+            "Southwest Pacific": [
+                231.87595238095236
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [240869.56421428567]
+        },
+        "Coastal fishes": {
+            "Atlantic Antarctic": [
+                0
+            ],
+            "East Atlantic": [
+                860.8293517593519
+            ],
+            "Northeast Atlantic": [
+                17.817666666666668
+            ],
+            "Southeast Atlantic": [
+                33.72761904761905
+            ],
+            "Southwest Atlantic": [
+                20.969272727272728
+            ],
+            "West Atlantic": [
+                120.90392857142857
+            ],
+            "Eastern Indian": [
+                11.686666666666667
+            ],
+            "Western Indian": [
+                1264.22
+            ],
+            "Mediterranean and Black": [
+                17.28409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                146568.77709625303
+            ],
+            "Southeast Pacific": [
+                206.32935387488328
+            ],
+            "Southwest Pacific": [
+                149.44803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [148993.72967723748]
+        },
+        "Demersal fishes": {
+            "Atlantic Antarctic": [
+                0.005
+            ],
+            "East Atlantic": [
+                223.525
+            ],
+            "Northeast Atlantic": [
+                17.197666666666667
+            ],
+            "Southeast Atlantic": [
+                32.43761904761905
+            ],
+            "Southwest Atlantic": [
+                20.419272727272727
+            ],
+            "West Atlantic": [
+                120.28392857142858
+            ],
+            "Eastern Indian": [
+                11.076666666666668
+            ],
+            "Western Indian": [
+                272.06666666666666
+            ],
+            "Mediterranean and Black": [
+                16.66409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                407042.93275000004
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                190.22803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [433722.13110750355]
+        },
+        "Pelagic fishes": {
+            "Atlantic Antarctic": [
+                10712.729666666663
+            ],
+            "East Atlantic": [
+                801.0173333333337
+            ],
+            "Northeast Atlantic": [
+                10712.729666666663
+            ],
+            "Southeast Atlantic": [
+                10712.729666666663
+            ],
+            "Southwest Atlantic": [
+                10712.729666666663
+            ],
+            "West Atlantic": [
+                10712.729666666663
+            ],
+            "Eastern Indian": [
+                10712.729666666663
+            ],
+            "Western Indian": [
+                10712.729666666663
+            ],
+            "Mediterranean and Black": [
+                10712.729666666663
+            ],
+            "East Pacific": [
+                10712.729666666663
+            ],
+            "Northwest Pacific": [
+                260243.50659126986
+            ],
+            "Southeast Pacific": [
+                22421.24
+            ],
+            "Southwest Pacific": [
+                10712.729666666663
+            ],
+            "West Pacific": [
+                10712.729666666663
+            ],
+            "sum": [363390.0947539683]
+        },
+        "Shads": {
+            "Atlantic Antarctic": [
+                0.03
+            ],
+            "East Atlantic": [
+                413.565
+            ],
+            "Northeast Atlantic": [
+                17.227666666666668
+            ],
+            "Southeast Atlantic": [
+                32.46761904761905
+            ],
+            "Southwest Atlantic": [
+                20.449272727272728
+            ],
+            "West Atlantic": [
+                120.31392857142856
+            ],
+            "Eastern Indian": [
+                11.106666666666667
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                16.69409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                69271.65
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                150.72803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [71310.12102813853]
+        },
+        "Cartilaginous": {
+            "Atlantic Antarctic": [
+                3.1607142857142856
+            ],
+            "East Atlantic": [
+                104.5
+            ],
+            "Northeast Atlantic": [
+                12.296714285714286
+            ],
+            "Southeast Atlantic": [
+                31.182619047619045
+            ],
+            "Southwest Atlantic": [
+                13.017000000000001
+            ],
+            "West Atlantic": [
+                71.20666666666666
+            ],
+            "Eastern Indian": [
+                2.8426190476190474
+            ],
+            "Western Indian": [
+                70.01275000000001
+            ],
+            "Mediterranean and Black": [
+                11.51404761904762
+            ],
+            "East Pacific": [
+                1032.383845238095
+            ],
+            "Northwest Pacific": [
+                1.5375
+            ],
+            "Southeast Pacific": [
+                201.2372380952381
+            ],
+            "Southwest Pacific": [
+                34.48611904761905
+            ],
+            "West Pacific": [
+                83.06453174603173
+            ],
+            "sum": [1543.5640833333332]
+        },
+        "Tunas": {
+            "Atlantic Antarctic": [
+                39.07532395382395
+            ],
+            "East Atlantic": [
+                549.7416230158728
+            ],
+            "Northeast Atlantic": [
+                45.12486507936508
+            ],
+            "Southeast Atlantic": [
+                34.11076298701299
+            ],
+            "Southwest Atlantic": [
+                43.583807109557114
+            ],
+            "West Atlantic": [
+                1029.1087391774888
+            ],
+            "Eastern Indian": [
+                10.590743506493506
+            ],
+            "Western Indian": [
+                1111.2406582649376
+            ],
+            "Mediterranean and Black": [
+                39.75441486291486
+            ],
+            "East Pacific": [
+                5044.864527474159
+            ],
+            "Northwest Pacific": [
+                35034.25634446108
+            ],
+            "Southeast Pacific": [
+                1392.156024065803
+            ],
+            "Southwest Pacific": [
+                925.5280714285716
+            ],
+            "West Pacific": [
+                3640.563169247419
+            ],
+            "sum": [57158.21225213675]
+        },
+        "Sum": 4363242.66
+    },
+    {"year": 2040,
+        "Cods": {
+            "Atlantic Antarctic": [
+                0.03
+            ],
+            "East Atlantic": [
+                224.365
+            ],
+            "Northeast Atlantic": [
+                17.227666666666668
+            ],
+            "Southeast Atlantic": [
+                32.46761904761905
+            ],
+            "Southwest Atlantic": [
+                20.449272727272728
+            ],
+            "West Atlantic": [
+                120.31392857142856
+            ],
+            "Eastern Indian": [
+                11.106666666666667
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                16.69409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                18364.87
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                150.72803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [20963.381028138527]
+        },
+        "Flounders": {
+            "Atlantic Antarctic": [
+                1.6
+            ],
+            "East Atlantic": [
+                436.43
+            ],
+            "Northeast Atlantic": [
+                18.797666666666668
+            ],
+            "Southeast Atlantic": [
+                34.03761904761905
+            ],
+            "Southwest Atlantic": [
+                22.019272727272728
+            ],
+            "West Atlantic": [
+                121.88392857142857
+            ],
+            "Eastern Indian": [
+                12.676666666666668
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                18.26409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                3017742.19
+            ],
+            "Southeast Pacific": [
+                208.81935387488326
+            ],
+            "Southwest Pacific": [
+                151.36803571428572
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [3025291.861028138]
+        },
+        "Herrings": {
+            "Atlantic Antarctic": [
+                168.64166666666668
+            ],
+            "East Atlantic": [
+                411.15416666666664
+            ],
+            "Northeast Atlantic": [
+                177.396
+            ],
+            "Southeast Atlantic": [
+                188.79928571428573
+            ],
+            "Southwest Atlantic": [
+                178.97366666666667
+            ],
+            "West Atlantic": [
+                187.27083333333337
+            ],
+            "Eastern Indian": [
+                173.69333333333336
+            ],
+            "Western Indian": [
+                321.50166666666667
+            ],
+            "Mediterranean and Black": [
+                176.76666666666668
+            ],
+            "East Pacific": [
+                820.0886428571429
+            ],
+            "Northwest Pacific": [
+                237743.16804761905
+            ],
+            "Southeast Pacific": [
+                285.24979831932774
+            ],
+            "Southwest Pacific": [
+                231.87595238095236
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [240869.56421428567]
+        },
+        "Coastal fishes": {
+            "Atlantic Antarctic": [
+                0
+            ],
+            "East Atlantic": [
+                860.8293517593519
+            ],
+            "Northeast Atlantic": [
+                17.817666666666668
+            ],
+            "Southeast Atlantic": [
+                33.72761904761905
+            ],
+            "Southwest Atlantic": [
+                20.969272727272728
+            ],
+            "West Atlantic": [
+                120.90392857142857
+            ],
+            "Eastern Indian": [
+                11.686666666666667
+            ],
+            "Western Indian": [
+                1264.22
+            ],
+            "Mediterranean and Black": [
+                17.28409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                146568.77709625303
+            ],
+            "Southeast Pacific": [
+                206.32935387488328
+            ],
+            "Southwest Pacific": [
+                149.44803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [148993.72967723748]
+        },
+        "Demersal fishes": {
+            "Atlantic Antarctic": [
+                0.005
+            ],
+            "East Atlantic": [
+                223.525
+            ],
+            "Northeast Atlantic": [
+                17.197666666666667
+            ],
+            "Southeast Atlantic": [
+                32.43761904761905
+            ],
+            "Southwest Atlantic": [
+                20.419272727272727
+            ],
+            "West Atlantic": [
+                120.28392857142858
+            ],
+            "Eastern Indian": [
+                11.076666666666668
+            ],
+            "Western Indian": [
+                272.06666666666666
+            ],
+            "Mediterranean and Black": [
+                16.66409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                407042.93275000004
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                190.22803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [433722.13110750355]
+        },
+        "Pelagic fishes": {
+            "Atlantic Antarctic": [
+                10712.729666666663
+            ],
+            "East Atlantic": [
+                801.0173333333337
+            ],
+            "Northeast Atlantic": [
+                10712.729666666663
+            ],
+            "Southeast Atlantic": [
+                10712.729666666663
+            ],
+            "Southwest Atlantic": [
+                10712.729666666663
+            ],
+            "West Atlantic": [
+                10712.729666666663
+            ],
+            "Eastern Indian": [
+                10712.729666666663
+            ],
+            "Western Indian": [
+                10712.729666666663
+            ],
+            "Mediterranean and Black": [
+                10712.729666666663
+            ],
+            "East Pacific": [
+                10712.729666666663
+            ],
+            "Northwest Pacific": [
+                260243.50659126986
+            ],
+            "Southeast Pacific": [
+                22421.24
+            ],
+            "Southwest Pacific": [
+                10712.729666666663
+            ],
+            "West Pacific": [
+                10712.729666666663
+            ],
+            "sum": [363390.0947539683]
+        },
+        "Shads": {
+            "Atlantic Antarctic": [
+                0.03
+            ],
+            "East Atlantic": [
+                413.565
+            ],
+            "Northeast Atlantic": [
+                17.227666666666668
+            ],
+            "Southeast Atlantic": [
+                32.46761904761905
+            ],
+            "Southwest Atlantic": [
+                20.449272727272728
+            ],
+            "West Atlantic": [
+                120.31392857142856
+            ],
+            "Eastern Indian": [
+                11.106666666666667
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                16.69409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                69271.65
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                150.72803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [71310.12102813853]
+        },
+        "Cartilaginous": {
+            "Atlantic Antarctic": [
+                3.1607142857142856
+            ],
+            "East Atlantic": [
+                104.5
+            ],
+            "Northeast Atlantic": [
+                12.296714285714286
+            ],
+            "Southeast Atlantic": [
+                31.182619047619045
+            ],
+            "Southwest Atlantic": [
+                13.017000000000001
+            ],
+            "West Atlantic": [
+                71.20666666666666
+            ],
+            "Eastern Indian": [
+                2.8426190476190474
+            ],
+            "Western Indian": [
+                70.01275000000001
+            ],
+            "Mediterranean and Black": [
+                11.51404761904762
+            ],
+            "East Pacific": [
+                1032.383845238095
+            ],
+            "Northwest Pacific": [
+                1.5375
+            ],
+            "Southeast Pacific": [
+                201.2372380952381
+            ],
+            "Southwest Pacific": [
+                34.48611904761905
+            ],
+            "West Pacific": [
+                83.06453174603173
+            ],
+            "sum": [1543.5640833333332]
+        },
+        "Tunas": {
+            "Atlantic Antarctic": [
+                39.07532395382395
+            ],
+            "East Atlantic": [
+                549.7416230158728
+            ],
+            "Northeast Atlantic": [
+                45.12486507936508
+            ],
+            "Southeast Atlantic": [
+                34.11076298701299
+            ],
+            "Southwest Atlantic": [
+                43.583807109557114
+            ],
+            "West Atlantic": [
+                1029.1087391774888
+            ],
+            "Eastern Indian": [
+                10.590743506493506
+            ],
+            "Western Indian": [
+                1111.2406582649376
+            ],
+            "Mediterranean and Black": [
+                39.75441486291486
+            ],
+            "East Pacific": [
+                5044.864527474159
+            ],
+            "Northwest Pacific": [
+                35034.25634446108
+            ],
+            "Southeast Pacific": [
+                1392.156024065803
+            ],
+            "Southwest Pacific": [
+                925.5280714285716
+            ],
+            "West Pacific": [
+                3640.563169247419
+            ],
+            "sum": [57158.21225213675]
+        },
+        "Sum": 4363242.659
+
+    },
+    {"year": 2050,
+        "Cods": {
+            "Atlantic Antarctic": [
+                0.03
+            ],
+            "East Atlantic": [
+                224.365
+            ],
+            "Northeast Atlantic": [
+                17.227666666666668
+            ],
+            "Southeast Atlantic": [
+                32.46761904761905
+            ],
+            "Southwest Atlantic": [
+                20.449272727272728
+            ],
+            "West Atlantic": [
+                120.31392857142856
+            ],
+            "Eastern Indian": [
+                11.106666666666667
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                16.69409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                18364.87
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                150.72803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [20963.381028138527]
+        },
+        "Flounders": {
+            "Atlantic Antarctic": [
+                1.6
+            ],
+            "East Atlantic": [
+                436.43
+            ],
+            "Northeast Atlantic": [
+                18.797666666666668
+            ],
+            "Southeast Atlantic": [
+                34.03761904761905
+            ],
+            "Southwest Atlantic": [
+                22.019272727272728
+            ],
+            "West Atlantic": [
+                121.88392857142857
+            ],
+            "Eastern Indian": [
+                12.676666666666668
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                18.26409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                3017742.19
+            ],
+            "Southeast Pacific": [
+                208.81935387488326
+            ],
+            "Southwest Pacific": [
+                151.36803571428572
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [3025291.861028138]
+        },
+        "Herrings": {
+            "Atlantic Antarctic": [
+                168.64166666666668
+            ],
+            "East Atlantic": [
+                411.15416666666664
+            ],
+            "Northeast Atlantic": [
+                177.396
+            ],
+            "Southeast Atlantic": [
+                188.79928571428573
+            ],
+            "Southwest Atlantic": [
+                178.97366666666667
+            ],
+            "West Atlantic": [
+                187.27083333333337
+            ],
+            "Eastern Indian": [
+                173.69333333333336
+            ],
+            "Western Indian": [
+                321.50166666666667
+            ],
+            "Mediterranean and Black": [
+                176.76666666666668
+            ],
+            "East Pacific": [
+                820.0886428571429
+            ],
+            "Northwest Pacific": [
+                237743.16804761905
+            ],
+            "Southeast Pacific": [
+                285.24979831932774
+            ],
+            "Southwest Pacific": [
+                231.87595238095236
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [240869.56421428567]
+        },
+        "Coastal fishes": {
+            "Atlantic Antarctic": [
+                0
+            ],
+            "East Atlantic": [
+                860.8293517593519
+            ],
+            "Northeast Atlantic": [
+                17.817666666666668
+            ],
+            "Southeast Atlantic": [
+                33.72761904761905
+            ],
+            "Southwest Atlantic": [
+                20.969272727272728
+            ],
+            "West Atlantic": [
+                120.90392857142857
+            ],
+            "Eastern Indian": [
+                11.686666666666667
+            ],
+            "Western Indian": [
+                1264.22
+            ],
+            "Mediterranean and Black": [
+                17.28409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                146568.77709625303
+            ],
+            "Southeast Pacific": [
+                206.32935387488328
+            ],
+            "Southwest Pacific": [
+                149.44803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [148993.72967723748]
+        },
+        "Demersal fishes": {
+            "Atlantic Antarctic": [
+                0.005
+            ],
+            "East Atlantic": [
+                223.525
+            ],
+            "Northeast Atlantic": [
+                17.197666666666667
+            ],
+            "Southeast Atlantic": [
+                32.43761904761905
+            ],
+            "Southwest Atlantic": [
+                20.419272727272727
+            ],
+            "West Atlantic": [
+                120.28392857142858
+            ],
+            "Eastern Indian": [
+                11.076666666666668
+            ],
+            "Western Indian": [
+                272.06666666666666
+            ],
+            "Mediterranean and Black": [
+                16.66409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                407042.93275000004
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                190.22803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [433722.13110750355]
+        },
+        "Pelagic fishes": {
+            "Atlantic Antarctic": [
+                10712.729666666663
+            ],
+            "East Atlantic": [
+                801.0173333333337
+            ],
+            "Northeast Atlantic": [
+                10712.729666666663
+            ],
+            "Southeast Atlantic": [
+                10712.729666666663
+            ],
+            "Southwest Atlantic": [
+                10712.729666666663
+            ],
+            "West Atlantic": [
+                10712.729666666663
+            ],
+            "Eastern Indian": [
+                10712.729666666663
+            ],
+            "Western Indian": [
+                10712.729666666663
+            ],
+            "Mediterranean and Black": [
+                10712.729666666663
+            ],
+            "East Pacific": [
+                10712.729666666663
+            ],
+            "Northwest Pacific": [
+                260243.50659126986
+            ],
+            "Southeast Pacific": [
+                22421.24
+            ],
+            "Southwest Pacific": [
+                10712.729666666663
+            ],
+            "West Pacific": [
+                10712.729666666663
+            ],
+            "sum": [363390.0947539683]
+        },
+        "Shads": {
+            "Atlantic Antarctic": [
+                0.03
+            ],
+            "East Atlantic": [
+                413.565
+            ],
+            "Northeast Atlantic": [
+                17.227666666666668
+            ],
+            "Southeast Atlantic": [
+                32.46761904761905
+            ],
+            "Southwest Atlantic": [
+                20.449272727272728
+            ],
+            "West Atlantic": [
+                120.31392857142856
+            ],
+            "Eastern Indian": [
+                11.106666666666667
+            ],
+            "Western Indian": [
+                279.71
+            ],
+            "Mediterranean and Black": [
+                16.69409090909091
+            ],
+            "East Pacific": [
+                823.3386428571429
+            ],
+            "Northwest Pacific": [
+                69271.65
+            ],
+            "Southeast Pacific": [
+                211.06935387488326
+            ],
+            "Southwest Pacific": [
+                150.72803571428574
+            ],
+            "West Pacific": [
+                287.62
+            ],
+            "sum": [71310.12102813853]
+        },
+        "Cartilaginous": {
+            "Atlantic Antarctic": [
+                3.1607142857142856
+            ],
+            "East Atlantic": [
+                104.5
+            ],
+            "Northeast Atlantic": [
+                12.296714285714286
+            ],
+            "Southeast Atlantic": [
+                31.182619047619045
+            ],
+            "Southwest Atlantic": [
+                13.017000000000001
+            ],
+            "West Atlantic": [
+                71.20666666666666
+            ],
+            "Eastern Indian": [
+                2.8426190476190474
+            ],
+            "Western Indian": [
+                70.01275000000001
+            ],
+            "Mediterranean and Black": [
+                11.51404761904762
+            ],
+            "East Pacific": [
+                1032.383845238095
+            ],
+            "Northwest Pacific": [
+                1.5375
+            ],
+            "Southeast Pacific": [
+                201.2372380952381
+            ],
+            "Southwest Pacific": [
+                34.48611904761905
+            ],
+            "West Pacific": [
+                83.06453174603173
+            ],
+            "sum": [1543.5640833333332]
+        },
+        "Tunas": {
+            "Atlantic Antarctic": [
+                39.07532395382395
+            ],
+            "East Atlantic": [
+                549.7416230158728
+            ],
+            "Northeast Atlantic": [
+                45.12486507936508
+            ],
+            "Southeast Atlantic": [
+                34.11076298701299
+            ],
+            "Southwest Atlantic": [
+                43.583807109557114
+            ],
+            "West Atlantic": [
+                1029.1087391774888
+            ],
+            "Eastern Indian": [
+                10.590743506493506
+            ],
+            "Western Indian": [
+                1111.2406582649376
+            ],
+            "Mediterranean and Black": [
+                39.75441486291486
+            ],
+            "East Pacific": [
+                5044.864527474159
+            ],
+            "Northwest Pacific": [
+                35034.25634446108
+            ],
+            "Southeast Pacific": [
+                1392.156024065803
+            ],
+            "Southwest Pacific": [
+                925.5280714285716
+            ],
+            "West Pacific": [
+                3640.563169247419
+            ],
+            "sum": [57158.21225213675]
+        },
+        "Sum": 4363242.659
+
+    }]
+}

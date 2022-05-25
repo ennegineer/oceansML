@@ -12,10 +12,6 @@
     <!--import popper js-->
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
-    <!--import bootswatch theme. see api: https://bootswatch.com/api/5.json-->
-        <!-- =<link rel="stylesheet" href="https://bootswatch.com/5/minty/bootstrap.css" > -->
-
-
 
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
@@ -54,7 +50,9 @@
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li><a class="dropdown-item" href="/direct">Fishing and Fish Population</a></li>
-                  <li><a class="dropdown-item" href="/indirect">Indirect Effects of Human Activity</a></li>
+                  <li><a class="dropdown-item" href="/vessel">Activity by Vessel</a></li>
+                  <li><a class="dropdown-item" href="/eutrop">Eutrophication</a></li>
+                  <li><a class="dropdown-item" href="/debris">Marine Debris</a></li>
                 </ul>
               </li>
               <li class="nav-item dropdown">
@@ -62,12 +60,9 @@
                   Prediction
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item active" href="#">Fishing Predictions by Country</a></li>
+                  <li><a class="dropdown-item active" href="#">Fishing Predictions by Year</a></li>
                   <li><a class="dropdown-item" href="/predproc">Prediction Process</a></li>
                 </ul>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/data">Data</a>
               </li>
             </ul>
           </div>
@@ -82,29 +77,38 @@
       </nav>
       
 
-      <div class="row">
-        <div class="col-md-2">
-          <div class="well">
-            <h5>Country:</h5>
+        <div class="well">
+        <div class="col-md-4">
+            <h5>Year:</h5>
             <select
               id="selDataset"
-              onchange="optionChanged(this.value)"
+              onchange="updateYear(this.value)"
             ></select>
-          </div>
+        </div>
+        <div class="col-md-2">
+            <h5>Area:</h5>
+            <select
+              id="selAreas"
+              onchange="updateArea(this.value)"
+            ></select>
+        </div>
+        </div>
+
+
+      <div class="row">
+        <div class="col-md-4">
           <div class="panel panel-primary">
             <div class="panel-heading">
-              <h3 class="panel-title">Demographic Info</h3>
+              <h3 class="panel-title">Predicted Fishing by Species</h3>
             </div>
             <div id="sample-metadata" class="panel-body"></div>
           </div>
         </div>
-        <div class="col-md-5">
+        <div class="col-md-6">
           <div id="bar"></div>
         </div>
-        <div class="col-md-5">
-          <div id="gauge"></div>
-        </div>
       </div>
+
       <div class="row">
         <div class="col-md-12">
           <div id="bubble"></div>
