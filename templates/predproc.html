@@ -52,10 +52,10 @@
                   Analysis
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="/direct">Fishing by Country</a></li>
-                    <li><a class="dropdown-item" href="/vessel">Activity by Vessel</a></li>
                     <li><a class="dropdown-item" href="/eutrop">Eutrophication</a></li>
                     <li><a class="dropdown-item" href="/debris">Marine Debris</a></li>
+                    <li><a class="dropdown-item" href="/vessel">Activity by Vessel</a></li>
+                    <li><a class="dropdown-item" href="/direct">Fishing by Country</a></li>
                   </ul>
               </li>
               <li class="nav-item dropdown">
@@ -82,7 +82,7 @@
       
       <div class="row" id="map-holder">
         <!-- The div where we'll insert our map -->
-        <div class="col-md-6 defs">
+        <div class="col-md-4 defs">
             <h3>Steps we took</h3>
             <p>
               <ul>
@@ -96,17 +96,23 @@
                 <li>China: low amount of unique values allows for the use of regressor</li>
                 <li>Classifier: Bins were made with sklearn.KBinsDigitizer.</li>
                 <li>Results for both: very similar predictions across the board. Regression had more diversity. Classifier despite trying various techniques still was very generalized.</li>
-              </ul><br/><br/>
-            
+              </ul>
             </p>
         </div>
-        <div class="col-md-5 defs">
-          <h3></h3>
-          <p><img src="static/img/histogram1.JPG" width="400px"> <img src="static/img/bins.JPG" height="380px"><br/><br/>
-          <img src="static/img/df.JPG" width="650px"><br/>
-
-        </p>
-        </div>
+        <div class="row">
+          <div class="col-md-8 defs">
+            <img src="static/img/histogram1.JPG" width="400px">
+            <p>Histogram of raw data (China only)</p>
+          </div>
+          <div class="col-md-3">
+            <img src="static/img/bins.JPG" height="380px">
+            <p>Bins created for machine learning</p>
+          </div>
+      </div>
+      <div class="col-md-5">
+        <img src="static/img/df.JPG" width="650px">
+        <p>Dataframe showing dummied data</p><br/><br/><br/>
+      </div>
       </div>
 </body>
 </html>
