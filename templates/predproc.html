@@ -83,14 +83,27 @@
       <div class="row" id="map-holder">
         <!-- The div where we'll insert our map -->
         <div class="col-md-6 defs">
-            <h3>Steps</h3>
-            <p>In our exploration phase of predictive modeling, we ruled out linear regression, as the data is heavily skewed. We decided on random forest classifier (for datasets with more than 10 unique values) and regressor (for datasets with unique values below 10).<br/><br/>
+            <h3>Steps we took</h3>
+            <p>
+              <ul>
+                <li>Filtered by country first</li>
+                <li>Then by year to include 1990 to current</li>
+                <li>Most columns dropped: only species, area, time and amount of fish were kept</li>
+                <li>'Get_Dummies' to split up the species and areas</li>
+                <li>Train Test Split</li>
+                <li>Two diverging baths: Random Forest Regressor and Random Forest Classifier</li>
+                <li>Regressor = exact, Classifier = range </li>
+                <li>China: low amount of unique values allows for the use of regressor</li>
+                <li>Classifier: Bins were made with sklearn.KBinsDigitizer.</li>
+                <li>Results for both: very similar predictions across the board. Regression had more diversity. Classifier despite trying various techniques still was very generalized.</li>
+              </ul><br/><br/>
             
             </p>
         </div>
         <div class="col-md-5 defs">
-          <h3>Caveats</h3>
-          <p><br/>
+          <h3></h3>
+          <p><img src="static/img/histogram1.JPG" width="400px"> <img src="static/img/bins.JPG" height="380px"><br/><br/>
+          <img src="static/img/df.JPG" width="650px"><br/>
 
         </p>
         </div>
