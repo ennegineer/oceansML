@@ -71,7 +71,7 @@ function optionChanged() {
             <strong>Pelagic fish</strong>: ${pelagic}<br>
             <strong>Shads</strong>: ${shads}<br>
             <strong>Cartilaginous</strong>: ${cartil}<br>
-            <strong>Tunas</strong>: ${tunas}<br>
+            <strong>Tunas</strong>: ${tunas}<br><br>
             <strong>Total</strong>: ${sums}<br>`);
 
   // Create a horizontal bar chart with a dropdown menu to display the
@@ -112,34 +112,10 @@ function optionChanged() {
           order: "descending",
         },
       ],
-      marker: { color: "#a60059" },
+      marker: { color: "#61d1fd" },
     },
   ];
   // Render the plot to the div tag with id "bar"
   Plotly.newPlot("bar", BarData);
-
-  // Bubble chart!
-  let BubbleData = [
-    {
-      x: Object.keys(row).filter(name => name!= "year" && name != "Sum"),
-      y: Object.keys(row).filter(name => name!= "year" && name != "Sum").map((fishname) => {return row[fishname][selectedArea][0]}),
-      mode: "markers",
-      marker: {
-        color: Object.keys(row).filter(name => name!= "year" && name != "Sum"),
-        opacity: Object.keys(row).filter(name => name!= "year" && name != "Sum"),
-        size: Object.keys(row).filter(name => name!= "year" && name != "Sum").map((fishname) => {return row[fishname][selectedArea][0]}),
-        showscale: true,
-        colorscale: "Bluered",
-      },
-    },
-
-  ];
-  var BubbleLayout = {
-    title: {
-      text: "<b>Count of all Fish in Section</b><br><i>Colors indicate the various species. Size indicates prevalence in section.</i>",
-    }
-  };
-  // Render the plot to the div tag with id "bubble"
-  Plotly.newPlot("bubble", BubbleData, BubbleLayout);
 
 }

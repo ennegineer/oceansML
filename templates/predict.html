@@ -75,35 +75,38 @@
         </div>
       </nav>
       
-
-        <div class="well">
-        <div class="col-md-4">
+  
+<div class="row well" style="padding-left:1rem">
+        <div class="col-md-2">
             <h5>Year:</h5>
             <select
               id="selDataset"
               onchange="updateYear(this.value)"
             ></select>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-3">
             <h5>Area:</h5>
             <select
               id="selAreas"
               onchange="updateArea(this.value)"
             ></select>
         </div>
+        <div class="col-md-5">
+          <h5>Notes</h5>
+          <p>The prediction model is trained using FAO data on China's reported fishing from 1990 to 2020. The prediction model gave the same values for every future year tested. We suspect that this is due to the uniformity of the data we ran through our regression model.</p>
         </div>
+  </div>
 
-
-      <div class="row">
+      <div class="row" style="padding-left:1rem">
         <div class="col-md-4">
           <div class="panel panel-primary">
             <div class="panel-heading">
-              <h3 class="panel-title">Predicted Fishing by Species</h3>
+              <h4 class="panel-title">Predicted Fishing by Species</h4>
             </div>
             <div id="sample-metadata" class="panel-body"></div>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-7">
           <div id="bar"></div>
         </div>
       </div>

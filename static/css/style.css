@@ -8,9 +8,14 @@ html, body
   min-height: 100%;
   min-width: 100%;
   display: block;
+  overflow-x: hidden;
   /* color:rgb(71, 71, 71); */
 }
 
+.panel {
+  border: 1px solid rgb(97, 209, 253);
+  border-radius: 4px;
+}
 .panel-body {
   padding: 0.9rem;
   padding-top: 1rem;
@@ -19,11 +24,23 @@ html, body
 
 .panel .panel-primary {
   border-color: rgb(97, 209, 253);
+  border-width: 1rem;
+  border:rgb(97, 209, 253);
+  border-style: solid;
 }
+
 
 .panel-primary .panel-heading {
   background-color: rgb(97, 209, 253);
 }
+
+.panel-heading {
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
 
 #map-holder{
     height: 80%;
