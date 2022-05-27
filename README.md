@@ -88,3 +88,5 @@ Carrying capacity: we are hitting the limit of how big the human population can 
 Demand is stable: the market for food and fish by extension will always be in demand but it’s not likely that there’ll be a sudden rise either barring another population explosion. We are past most large country’s ‘boom’ and headed towards population stabilization and declines in some regions. 
  
 Overfishing: with wild fish populations continuing to decline, bans and limits on how much can be fished have been put in place. Assuming these are followed, they would put an upper limit on how much will be fished per year. With alternatives like fish farming becoming increasingly prevalent to restock native populations or feed us, it’s possible wild catch will not increase as any lack of catch is made up for by fish farms.  
+
+### Reframe question for future: focus more on looking for locations of highest yield and searching for globally over exploited areas 
